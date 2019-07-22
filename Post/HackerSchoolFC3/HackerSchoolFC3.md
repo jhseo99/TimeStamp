@@ -52,7 +52,7 @@ ASCII Armor
 iron_golem
 ==========
 
-<br>![Image Error](./iron_golem/source.jpg)
+<br>![Image Error](./iron_golem//source.jpg)
 
 <br>첫 번째 문제라 그런지 코드가 간단하다. 힌트부터 살펴보면 FEBP 기법을 사용하라고 말하는 것 같다. 코드는 실행 인자를 받아 buffer에 저장하는 것이다. 역시나 길이 제한이 없어 overflow가 발생한다.
 
