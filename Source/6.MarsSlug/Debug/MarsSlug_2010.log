@@ -1,0 +1,44 @@
+﻿Build started 2017-03-13 오전 4:30:59.
+     1>Project "C:\Users\wlsgu\Desktop\Source\DX\MarsSlug\MarsSlug\MarsSlug\MarsSlug\MarsSlug_2010.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /IDXUT\Core /IDXUT\Optional /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D D3DXFX_LARGEADDRESS_HANDLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Yu"DXUT.h" /Fp"Debug\MarsSlug.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt  Scene.cpp
+         Scene.cpp
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wlsgu\Desktop\Source\DX\MarsSlug\MarsSlug\MarsSlug\MarsSlug\Debug\MarsSlug.exe" /INCREMENTAL /NOLOGO d3dx10d.lib d3dx9d.lib dxerr.lib dxguid.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"C:\Users\wlsgu\Desktop\Source\DX\MarsSlug\MarsSlug\MarsSlug\MarsSlug\Debug\MarsSlug.pdb" /SUBSYSTEM:WINDOWS /LARGEADDRESSAWARE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\wlsgu\Desktop\Source\DX\MarsSlug\MarsSlug\MarsSlug\MarsSlug\Debug\MarsSlug.lib" /MACHINE:X86 /SAFESEH  Debug\MarsSlug.res
+         Debug\AimObject.obj
+         Debug\Background.obj
+         Debug\Boss.obj
+         Debug\Bullet.obj
+         Debug\DashObject.obj
+         Debug\Effect.obj
+         Debug\Enemy.obj
+         Debug\EnemyAim.obj
+         Debug\EnemyDash.obj
+         Debug\EnemySplit.obj
+         Debug\Intro.obj
+         Debug\MiniSplit.obj
+         Debug\MoveObject.obj
+         Debug\Object.obj
+         Debug\Player.obj
+         Debug\Scene.obj
+         Debug\SceneManager.obj
+         Debug\Stage.obj
+         Debug\Stage1.obj
+         Debug\DXUT.obj
+         Debug\DXUTenum.obj
+         Debug\DXUTmisc.obj
+         Debug\DXUTcamera.obj
+         Debug\DXUTgui.obj
+         Debug\DXUTres.obj
+         Debug\DXUTsettingsdlg.obj
+         Debug\SDKmesh.obj
+         Debug\SDKmisc.obj
+         Debug\GaApplication.obj
+         Debug\MarsSlug.obj
+     1>AimObject.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         MarsSlug_2010.vcxproj -> C:\Users\wlsgu\Desktop\Source\DX\MarsSlug\MarsSlug\MarsSlug\MarsSlug\Debug\MarsSlug.exe
+     1>Done Building Project "C:\Users\wlsgu\Desktop\Source\DX\MarsSlug\MarsSlug\MarsSlug\MarsSlug\MarsSlug_2010.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.64

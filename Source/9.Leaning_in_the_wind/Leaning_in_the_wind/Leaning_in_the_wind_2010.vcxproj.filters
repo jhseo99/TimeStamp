@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns:atg="http://atg.xbox.com" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8e114980-c1a3-4ada-ad7c-83caadf5daeb}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{a43c5c25-0e86-4a20-b64a-883785ff74fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{d7ed65d7-edcc-487b-9bc9-81ebcf339dc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Scene">
+      <UniqueIdentifier>{4c392196-0090-4238-92e2-50db1639b566}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object">
+      <UniqueIdentifier>{6e0c4a84-a3ed-432b-8adf-795d01f3d9e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SceneManager">
+      <UniqueIdentifier>{ccc53750-1202-4551-adde-e24b3547265a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Camera">
+      <UniqueIdentifier>{af3bb381-d1f9-4a72-b50b-054cde56e578}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Horse">
+      <UniqueIdentifier>{39974a80-202d-4463-80d3-f1c5e2293a2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Scene\Stage">
+      <UniqueIdentifier>{f575de1d-bcc9-4afc-adde-be3ec853bdd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\RenderObject">
+      <UniqueIdentifier>{fb4ea0a7-dbc9-48b0-855e-087539653db9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GaTimer">
+      <UniqueIdentifier>{0c1ff7e2-f560-4471-bcf0-8226fff7e475}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\CountDown">
+      <UniqueIdentifier>{59833f64-7abb-40d3-a1a2-f091bca2b1c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\CollisionObject">
+      <UniqueIdentifier>{30a52d07-3637-49d8-9752-f737d4d01e71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Horse\PlayerHorse">
+      <UniqueIdentifier>{0b96b58a-f786-4963-b3fd-cf07cf5ae36a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Horse\HorseAI">
+      <UniqueIdentifier>{98571e0b-c4fe-4d1c-8be4-152da93b75a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Track">
+      <UniqueIdentifier>{1e2cd8bf-ec5d-4994-974c-f25406c9b192}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Item">
+      <UniqueIdentifier>{d4ccf078-07b5-46f8-8cd5-4ffa5fb8ef5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Fire">
+      <UniqueIdentifier>{473091ee-1144-4706-8cf3-1498745b1d14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Scene\Intro">
+      <UniqueIdentifier>{4ba03314-5c81-4b83-8bc0-621d72776286}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Scene\Menu">
+      <UniqueIdentifier>{0b2d2b16-916c-4eb5-a6aa-248678aeb17b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Beach">
+      <UniqueIdentifier>{84366a16-c731-4954-9d69-cc432348f054}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Scene\Ending">
+      <UniqueIdentifier>{83d8bd72-4137-48bc-805f-c5dcb85fb8de}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DXUT\Optional\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <ClInclude Include="DXUT\Core\DXUT.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTenum.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Core\DXUT.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTenum.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClInclude Include="DXUT\Optional\DXUTcamera.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTgui.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTres.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTsettingsdlg.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmesh.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Optional\DXUTcamera.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTgui.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTres.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTsettingsdlg.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmesh.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="RenderObject.cpp">
+      <Filter>Source\Object\RenderObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>Source\Scene\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Leaning_in_the_wind.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Source\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source\Object\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Horse.cpp">
+      <Filter>Source\Object\Horse</Filter>
+    </ClCompile>
+    <ClCompile Include="GaTimer.cpp">
+      <Filter>Source\GaTimer</Filter>
+    </ClCompile>
+    <ClCompile Include="CountDown.cpp">
+      <Filter>Source\Object\CountDown</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionObject.cpp">
+      <Filter>Source\Object\CollisionObject</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerHorse.cpp">
+      <Filter>Source\Object\Horse\PlayerHorse</Filter>
+    </ClCompile>
+    <ClCompile Include="HorseAI.cpp">
+      <Filter>Source\Object\Horse\HorseAI</Filter>
+    </ClCompile>
+    <ClCompile Include="Track.cpp">
+      <Filter>Source\Object\Track</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source\Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Fire.cpp">
+      <Filter>Source\Object\Fire</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro.cpp">
+      <Filter>Source\Scene\Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source\Scene\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Beach.cpp">
+      <Filter>Source\Object\Beach</Filter>
+    </ClCompile>
+    <ClCompile Include="Ending.cpp">
+      <Filter>Source\Scene\Ending</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CLInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </CLInclude>
+    <ResourceCompile Include="Leaning_in_the_wind.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+    <ClInclude Include="GaBase.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>Source\Scene\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Source\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Source\Object\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Horse.h">
+      <Filter>Source\Object\Horse</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderObject.h">
+      <Filter>Source\Object\RenderObject</Filter>
+    </ClInclude>
+    <ClInclude Include="GaTimer.h">
+      <Filter>Source\GaTimer</Filter>
+    </ClInclude>
+    <ClInclude Include="CountDown.h">
+      <Filter>Source\Object\CountDown</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionObject.h">
+      <Filter>Source\Object\CollisionObject</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerHorse.h">
+      <Filter>Source\Object\Horse\PlayerHorse</Filter>
+    </ClInclude>
+    <ClInclude Include="HorseAI.h">
+      <Filter>Source\Object\Horse\HorseAI</Filter>
+    </ClInclude>
+    <ClInclude Include="Track.h">
+      <Filter>Source\Object\Track</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Source\Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Fire.h">
+      <Filter>Source\Object\Fire</Filter>
+    </ClInclude>
+    <ClInclude Include="Intro.h">
+      <Filter>Source\Scene\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Source\Scene\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Beach.h">
+      <Filter>Source\Object\Beach</Filter>
+    </ClInclude>
+    <ClInclude Include="Ending.h">
+      <Filter>Source\Scene\Ending</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

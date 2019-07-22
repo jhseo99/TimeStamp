@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns:atg="http://atg.xbox.com" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8e114980-c1a3-4ada-ad7c-83caadf5daeb}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{a43c5c25-0e86-4a20-b64a-883785ff74fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{9586cd0e-1e00-42e9-9217-c096a06e9b30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GaApplication">
+      <UniqueIdentifier>{30a18454-2a10-439a-89a8-cf50028a734b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object">
+      <UniqueIdentifier>{803be5e8-8326-4666-bf07-49f9d5181c9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\MoveObject">
+      <UniqueIdentifier>{808851cb-66da-495a-82d4-34fd265a2d0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Player">
+      <UniqueIdentifier>{2ea060c2-4b03-4c3f-9892-af2508982504}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\MoveObject\Bullet">
+      <UniqueIdentifier>{2b5fafe3-dd9d-4e2b-b30d-cd18e93ae5e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\MoveObject\Enemy">
+      <UniqueIdentifier>{3a451ead-c7c4-43d0-ae4e-bad5a20fbeda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\MoveObject\Enemy\EnemyAim">
+      <UniqueIdentifier>{d954d4b6-95c6-48a7-b3fa-364de599f2c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\MoveObject\Enemy\EnemyDash">
+      <UniqueIdentifier>{d7a7b875-cced-40aa-9570-3c38ac97a748}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\MoveObject\Background">
+      <UniqueIdentifier>{be937038-1587-4a1f-b163-b3d80aa74c95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\MoveObject\Enemy\EnemySplit">
+      <UniqueIdentifier>{7124bb97-aad4-43d3-9a9a-504cdf52fb70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\AimObject">
+      <UniqueIdentifier>{7cd727d8-29f0-42b0-92b1-b535a9233326}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\DashObject">
+      <UniqueIdentifier>{167e4f1f-fa1c-49e8-8381-585bf620438c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Effect">
+      <UniqueIdentifier>{43d3cca9-c2d0-4362-9b70-16282d4f09e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\MoveObject\Enemy\EnemySplit\MiniSplit">
+      <UniqueIdentifier>{74f99d64-3baf-4d8f-962c-1b0e093bb62a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\MoveObject\Enemy\Boss1">
+      <UniqueIdentifier>{033a924e-2e8a-4251-980c-8acae3598235}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SceneManager">
+      <UniqueIdentifier>{dc446e41-6e08-4c03-bd64-80a3e62f257d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SceneManager\Scene">
+      <UniqueIdentifier>{fe7d340f-ea1e-4ac3-a123-28fe7c4fc914}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SceneManager\Scene\Stage">
+      <UniqueIdentifier>{7de5c662-916e-4504-9823-67f0290ba805}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SceneManager\Scene\Stage\Stage1">
+      <UniqueIdentifier>{375fed75-3205-4120-916f-239c1b829bd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SceneManager\Scene\Intro">
+      <UniqueIdentifier>{dc311329-b120-4cb1-b13c-69ad32dca2b1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DXUT\Optional\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <ClInclude Include="DXUT\Core\DXUT.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTenum.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Core\DXUT.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTenum.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClInclude Include="DXUT\Optional\DXUTcamera.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTgui.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTres.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTsettingsdlg.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmesh.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Optional\DXUTcamera.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTgui.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTres.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTsettingsdlg.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmesh.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MarsSlug.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="GaApplication.cpp">
+      <Filter>Source\GaApplication</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Source\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>Source\SceneManager\Scene\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage1.cpp">
+      <Filter>Source\SceneManager\Scene\Stage\Stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveObject.cpp">
+      <Filter>Source\Object\MoveObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source\Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source\Object\MoveObject\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source\Object\MoveObject\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Source\SceneManager\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Source\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyAim.cpp">
+      <Filter>Source\Object\MoveObject\Enemy\EnemyAim</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyDash.cpp">
+      <Filter>Source\Object\MoveObject\Enemy\EnemyDash</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>Source\Object\MoveObject\Background</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemySplit.cpp">
+      <Filter>Source\Object\MoveObject\Enemy\EnemySplit</Filter>
+    </ClCompile>
+    <ClCompile Include="AimObject.cpp">
+      <Filter>Source\Object\AimObject</Filter>
+    </ClCompile>
+    <ClCompile Include="DashObject.cpp">
+      <Filter>Source\Object\DashObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>Source\Object\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniSplit.cpp">
+      <Filter>Source\Object\MoveObject\Enemy\EnemySplit\MiniSplit</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>Source\Object\MoveObject\Enemy\Boss1</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro.cpp">
+      <Filter>Source\SceneManager\Scene\Intro</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CLInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </CLInclude>
+    <ResourceCompile Include="MarsSlug.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+    <ClInclude Include="GaApplication.h">
+      <Filter>Source\GaApplication</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Source\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>Source\SceneManager\Scene\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage1.h">
+      <Filter>Source\SceneManager\Scene\Stage\Stage1</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveObject.h">
+      <Filter>Source\Object\MoveObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Source\Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Source\Object\MoveObject\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Source\Object\MoveObject\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyAim.h">
+      <Filter>Source\Object\MoveObject\Enemy\EnemyAim</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyDash.h">
+      <Filter>Source\Object\MoveObject\Enemy\EnemyDash</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>Source\Object\MoveObject\Background</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemySplit.h">
+      <Filter>Source\Object\MoveObject\Enemy\EnemySplit</Filter>
+    </ClInclude>
+    <ClInclude Include="AimObject.h">
+      <Filter>Source\Object\AimObject</Filter>
+    </ClInclude>
+    <ClInclude Include="DashObject.h">
+      <Filter>Source\Object\DashObject</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Source\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniSplit.h">
+      <Filter>Source\Object\MoveObject\Enemy\EnemySplit\MiniSplit</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>Source\Object\MoveObject\Enemy\Boss1</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>Source\Object\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Source\SceneManager\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Intro.h">
+      <Filter>Source\SceneManager\Scene\Intro</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\GaApp">
+      <UniqueIdentifier>{47e65c7d-61a1-455f-b9b7-70cfc9e5823f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object">
+      <UniqueIdentifier>{958ac73f-3ca9-4953-914e-f476ef58840c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GaTimer">
+      <UniqueIdentifier>{6b22dc47-fdff-48d1-a18c-c41d0d8ffb9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ObjectMananger">
+      <UniqueIdentifier>{44bc7a9f-3a06-4ec4-9cb8-7ca432819c06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\GameObject">
+      <UniqueIdentifier>{5cadb139-75b8-46cc-b090-bea6cdcae911}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sound">
+      <UniqueIdentifier>{aea0acfa-eda0-447b-95c5-8aa8e408ec24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Player">
+      <UniqueIdentifier>{1b949805-9572-4bb9-a1e4-8a13504ae799}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy">
+      <UniqueIdentifier>{851e6cbe-a29c-44a5-afbc-a077a1f2699a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy\RedEnemy">
+      <UniqueIdentifier>{702f775e-5ee0-4654-bcbc-23760a9bbf10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Player\Missile">
+      <UniqueIdentifier>{4f3dbb29-609d-48fb-a8f2-b4a5a559231d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy\Virus">
+      <UniqueIdentifier>{85e50366-130b-4dfb-b523-64ce61360fd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy\WhiteEnemy">
+      <UniqueIdentifier>{8f4e9b0c-733b-4679-8b8a-ec8b25b93d8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy\Bacteria">
+      <UniqueIdentifier>{897d13b0-a9cf-459c-92fd-e82ff35398c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy\Cancer">
+      <UniqueIdentifier>{a0b475b4-c079-42b6-8a13-f1fa7d5b83ef}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GaApp.cpp">
+      <Filter>Source Files\GaApp</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Source Files\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="GaTimer.cpp">
+      <Filter>Source Files\GaTimer</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>Source Files\ObjectMananger</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files\Object\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Source Files\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="RedEnemy.cpp">
+      <Filter>Source Files\Object\Enemy\RedEnemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files\Object\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Missile.cpp">
+      <Filter>Source Files\Object\Player\Missile</Filter>
+    </ClCompile>
+    <ClCompile Include="Virus.cpp">
+      <Filter>Source Files\Object\Enemy\Virus</Filter>
+    </ClCompile>
+    <ClCompile Include="WhiteEnemy.cpp">
+      <Filter>Source Files\Object\Enemy\WhiteEnemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Bacteria.cpp">
+      <Filter>Source Files\Object\Enemy\Bacteria</Filter>
+    </ClCompile>
+    <ClCompile Include="Cancer.cpp">
+      <Filter>Source Files\Object\Enemy\Cancer</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GaApp.h">
+      <Filter>Source Files\GaApp</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Source Files\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="GaTimer.h">
+      <Filter>Source Files\GaTimer</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>Source Files\ObjectMananger</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Source Files\Object\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Source Files\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Source Files\Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="RedEnemy.h">
+      <Filter>Source Files\Object\Enemy\RedEnemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Source Files\Object\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Missile.h">
+      <Filter>Source Files\Object\Player\Missile</Filter>
+    </ClInclude>
+    <ClInclude Include="Virus.h">
+      <Filter>Source Files\Object\Enemy\Virus</Filter>
+    </ClInclude>
+    <ClInclude Include="WhiteEnemy.h">
+      <Filter>Source Files\Object\Enemy\WhiteEnemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Bacteria.h">
+      <Filter>Source Files\Object\Enemy\Bacteria</Filter>
+    </ClInclude>
+    <ClInclude Include="Cancer.h">
+      <Filter>Source Files\Object\Enemy\Cancer</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

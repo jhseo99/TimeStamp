@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns:atg="http://atg.xbox.com" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8e114980-c1a3-4ada-ad7c-83caadf5daeb}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{a43c5c25-0e86-4a20-b64a-883785ff74fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{b704348c-75a1-4ab7-a234-3c41ea80fd53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object">
+      <UniqueIdentifier>{ddb3ba0c-ae75-49cf-92f0-b86c3a972694}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\RenderObject">
+      <UniqueIdentifier>{e5628208-a74e-4e75-8353-1275e82d89ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Scene">
+      <UniqueIdentifier>{11c36c33-c146-4b64-9b9f-e96ecce84e0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Scene\Stage">
+      <UniqueIdentifier>{9e2f8196-8b8e-4a1e-856b-0a41ad35085f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Singleton">
+      <UniqueIdentifier>{319f082c-01c4-4cf6-9135-76a4b23129fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Singleton\SceneManager">
+      <UniqueIdentifier>{928d399b-7776-46f8-b2ab-e190e0556e70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Singleton\Mouse">
+      <UniqueIdentifier>{a9946a3f-dd0b-420a-a1bc-a9659dc25e48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\TileMap">
+      <UniqueIdentifier>{54b18ff2-3c6b-481e-8fdd-c7f47153ff95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\TileMap\Tile">
+      <UniqueIdentifier>{93b5bd39-b49a-4792-b5db-eacb4230eeda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\AStar">
+      <UniqueIdentifier>{6e2c7438-f8b5-40c4-b1dc-4aeebfd2900a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Player">
+      <UniqueIdentifier>{65b2b2ef-6c05-4af6-af14-5b330ff7784d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\MoveObject">
+      <UniqueIdentifier>{d4317e11-e48d-450e-b624-69ed164c5990}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DXUT\Optional\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <ClInclude Include="DXUT\Core\DXUT.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTenum.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Core\DXUT.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTenum.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClInclude Include="DXUT\Optional\DXUTcamera.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTgui.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTres.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTsettingsdlg.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmesh.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Optional\DXUTcamera.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTgui.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTres.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTsettingsdlg.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmesh.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="HamelSurvival.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderObject.cpp">
+      <Filter>Source\Object\RenderObject</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Source\Singleton\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>Source\Scene\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>Source\Singleton\Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Source\Object\TileMap\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMap.cpp">
+      <Filter>Source\Object\TileMap</Filter>
+    </ClCompile>
+    <ClCompile Include="AStar.cpp">
+      <Filter>Source\Object\AStar</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source\Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveObject.cpp">
+      <Filter>Source\Object\MoveObject</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CLInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </CLInclude>
+    <ResourceCompile Include="HamelSurvival.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+    <ClInclude Include="GaBase.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderObject.h">
+      <Filter>Source\Object\RenderObject</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Source\Singleton\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>Source\Scene\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>Source\Singleton\Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Source\Object\TileMap\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMap.h">
+      <Filter>Source\Object\TileMap</Filter>
+    </ClInclude>
+    <ClInclude Include="AStar.h">
+      <Filter>Source\Object\AStar</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Source\Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveObject.h">
+      <Filter>Source\Object\MoveObject</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

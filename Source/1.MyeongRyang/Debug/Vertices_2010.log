@@ -1,0 +1,87 @@
+﻿  Vertices.cpp
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(197): warning C4459: 'g_wc' 선언은 전역 선언을 숨깁니다.
+  c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(14): note: 'g_wc' 선언을 참조하십시오.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(455): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(531): warning C4127: 조건식이 상수입니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(535): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(546): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(781): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(867): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1006): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1006): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1011): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1011): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1016): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1016): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1017): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1017): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1022): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1022): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1027): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1027): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1032): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1032): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1033): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1033): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1034): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1034): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1045): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1045): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1049): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1049): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1053): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1053): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1059): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1059): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1066): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1066): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1074): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1074): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1079): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1079): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1083): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1083): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1087): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1087): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1091): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1091): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1095): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1095): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1099): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1099): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1104): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1104): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1108): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1108): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1112): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1112): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1116): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1116): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1120): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1120): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1124): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1124): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1131): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1131): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1132): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1132): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1141): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1141): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1146): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1146): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1149): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1149): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1158): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1158): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1166): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1166): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1171): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1171): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1175): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1175): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1179): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1179): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1185): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1185): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\new\new\test\vertices.cpp(1264): warning C4100: 'hInst': 참조되지 않은 정식 매개 변수입니다.
+  Vertices_2010.vcxproj -> C:\Users\samsung\Desktop\포트폴리오\New\New\test\Debug\Vertices.exe

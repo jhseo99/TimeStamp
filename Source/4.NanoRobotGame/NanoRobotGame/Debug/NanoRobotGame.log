@@ -1,0 +1,24 @@
+﻿Build started 2017-01-08 오후 11:24:56.
+     1>Project "C:\Users\wlsgu\Desktop\Source\DX\NanoRobotGame\NanoRobotGame\NanoRobotGame\NanoRobotGame\NanoRobotGame.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wlsgu\Desktop\Source\DX\NanoRobotGame\NanoRobotGame\NanoRobotGame\Debug\NanoRobotGame.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib dxguid.lib dsound.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\wlsgu\Desktop\Source\DX\NanoRobotGame\NanoRobotGame\NanoRobotGame\Debug\NanoRobotGame.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\wlsgu\Desktop\Source\DX\NanoRobotGame\NanoRobotGame\NanoRobotGame\Debug\NanoRobotGame.lib" /MACHINE:X86 Debug\Bacteria.obj
+         Debug\Cancer.obj
+         Debug\Enemy.obj
+         Debug\GaApp.obj
+         Debug\GaTimer.obj
+         Debug\main.obj
+         Debug\Missile.obj
+         Debug\Object.obj
+         Debug\ObjectManager.obj
+         Debug\GameObject.obj
+         Debug\Player.obj
+         Debug\RedEnemy.obj
+         Debug\Sound.obj
+         Debug\Virus.obj
+         Debug\WhiteEnemy.obj
+         NanoRobotGame.vcxproj -> C:\Users\wlsgu\Desktop\Source\DX\NanoRobotGame\NanoRobotGame\NanoRobotGame\Debug\NanoRobotGame.exe
+     1>Done Building Project "C:\Users\wlsgu\Desktop\Source\DX\NanoRobotGame\NanoRobotGame\NanoRobotGame\NanoRobotGame\NanoRobotGame.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.22

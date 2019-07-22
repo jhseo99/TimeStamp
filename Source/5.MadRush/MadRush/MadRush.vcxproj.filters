@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\GaApp">
+      <UniqueIdentifier>{a5fd3f7a-d16a-48a5-a22a-23f4e80b876b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GaTimer">
+      <UniqueIdentifier>{e60250b5-dcda-4e3e-8c2b-21591fa7a34e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ObjectManager">
+      <UniqueIdentifier>{2c9ae5e6-19b5-4533-8835-3236032f1878}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object">
+      <UniqueIdentifier>{1cbd9a62-8525-498e-87d6-8d88964179bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Screen">
+      <UniqueIdentifier>{cd64100b-46c4-4fd9-acbe-ba23c36ed969}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Player">
+      <UniqueIdentifier>{b6cea066-febd-4499-9516-b1d13718376f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Input">
+      <UniqueIdentifier>{73e499c5-437c-4977-973d-6b6a74add2cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Input\GaInput">
+      <UniqueIdentifier>{44b61bcd-6389-4002-b3f3-a4c52e7e44d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Input\GaKeyboard">
+      <UniqueIdentifier>{6c281035-f2a5-4b68-a97e-416bb7916ddd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Input\GaMouse">
+      <UniqueIdentifier>{31de02f4-e545-4f9d-8b9f-e74d3bbc9685}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Missile">
+      <UniqueIdentifier>{187b400c-4b17-4e45-aa5d-c83fa00c89dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy">
+      <UniqueIdentifier>{b32cbc59-5034-467f-a0a3-acd06375aee9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy\Rider">
+      <UniqueIdentifier>{0a9bee94-3c07-4e6d-8907-7094416b03fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Bullet">
+      <UniqueIdentifier>{5f367d9e-447a-4fd1-bba9-6ded06a6b45e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy\Soldier">
+      <UniqueIdentifier>{99b733e2-0719-4ce3-9b54-45423f8a3073}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy\Bomber">
+      <UniqueIdentifier>{256788d5-ee62-44a8-83d3-3c20cff73f2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy\Wheel">
+      <UniqueIdentifier>{9bbe67e9-748d-4903-ac46-82355692e7b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy\Buzzard">
+      <UniqueIdentifier>{c6d2597a-acf0-43cc-8f8d-a27ae7218f11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy\Tank">
+      <UniqueIdentifier>{6b5c5dee-1e98-4bae-ab6a-47f24eaf41ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Effect">
+      <UniqueIdentifier>{c2a20507-5425-44be-a16d-171ced15afa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\GaugeBar">
+      <UniqueIdentifier>{eaacffb1-e08d-4d92-a04a-505a8c5d453b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Gauge">
+      <UniqueIdentifier>{0244ea00-ae62-40b4-b2c7-575071bd56ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Item">
+      <UniqueIdentifier>{86909560-028d-4a96-8926-3cfbc1f71c03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy\Truck">
+      <UniqueIdentifier>{76a57077-c20d-4ac2-8051-394faec0f926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\Enemy\Boss">
+      <UniqueIdentifier>{c8bc23c2-5f04-4102-9de4-16688bfe8c92}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GaMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GaApp.cpp">
+      <Filter>Source Files\GaApp</Filter>
+    </ClCompile>
+    <ClCompile Include="GaTimer.cpp">
+      <Filter>Source Files\GaTimer</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>Source Files\ObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Source Files\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen.cpp">
+      <Filter>Source Files\Object\Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="GaInput.cpp">
+      <Filter>Source Files\Input\GaInput</Filter>
+    </ClCompile>
+    <ClCompile Include="GaKeyboard.cpp">
+      <Filter>Source Files\Input\GaKeyboard</Filter>
+    </ClCompile>
+    <ClCompile Include="GaMouse.cpp">
+      <Filter>Source Files\Input\GaMouse</Filter>
+    </ClCompile>
+    <ClCompile Include="Missile.cpp">
+      <Filter>Source Files\Object\Missile</Filter>
+    </ClCompile>
+    <ClCompile Include="Rider.cpp">
+      <Filter>Source Files\Object\Enemy\Rider</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source Files\Object\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Soldier.cpp">
+      <Filter>Source Files\Object\Enemy\Soldier</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files\Object\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomber.cpp">
+      <Filter>Source Files\Object\Enemy\Bomber</Filter>
+    </ClCompile>
+    <ClCompile Include="Wheel.cpp">
+      <Filter>Source Files\Object\Enemy\Wheel</Filter>
+    </ClCompile>
+    <ClCompile Include="Buzzard.cpp">
+      <Filter>Source Files\Object\Enemy\Buzzard</Filter>
+    </ClCompile>
+    <ClCompile Include="Tank.cpp">
+      <Filter>Source Files\Object\Enemy\Tank</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>Source Files\Object\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="GaugeBar.cpp">
+      <Filter>Source Files\Object\GaugeBar</Filter>
+    </ClCompile>
+    <ClCompile Include="Gauge.cpp">
+      <Filter>Source Files\Object\Gauge</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files\Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Truck.cpp">
+      <Filter>Source Files\Object\Enemy\Truck</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>Source Files\Object\Enemy\Boss</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GaApp.h">
+      <Filter>Source Files\GaApp</Filter>
+    </ClInclude>
+    <ClInclude Include="GaTimer.h">
+      <Filter>Source Files\GaTimer</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>Source Files\ObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Source Files\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
+      <Filter>Source Files\Object\Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Source Files\Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="GaInput.h">
+      <Filter>Source Files\Input\GaInput</Filter>
+    </ClInclude>
+    <ClInclude Include="GaKeyboard.h">
+      <Filter>Source Files\Input\GaKeyboard</Filter>
+    </ClInclude>
+    <ClInclude Include="GaMouse.h">
+      <Filter>Source Files\Input\GaMouse</Filter>
+    </ClInclude>
+    <ClInclude Include="Missile.h">
+      <Filter>Source Files\Object\Missile</Filter>
+    </ClInclude>
+    <ClInclude Include="Rider.h">
+      <Filter>Source Files\Object\Enemy\Rider</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Source Files\Object\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Soldier.h">
+      <Filter>Source Files\Object\Enemy\Soldier</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Source Files\Object\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomber.h">
+      <Filter>Source Files\Object\Enemy\Bomber</Filter>
+    </ClInclude>
+    <ClInclude Include="Wheel.h">
+      <Filter>Source Files\Object\Enemy\Wheel</Filter>
+    </ClInclude>
+    <ClInclude Include="Buzzard.h">
+      <Filter>Source Files\Object\Enemy\Buzzard</Filter>
+    </ClInclude>
+    <ClInclude Include="Tank.h">
+      <Filter>Source Files\Object\Enemy\Tank</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>Source Files\Object\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="GaugeBar.h">
+      <Filter>Source Files\Object\GaugeBar</Filter>
+    </ClInclude>
+    <ClInclude Include="Gauge.h">
+      <Filter>Source Files\Object\Gauge</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Source Files\Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Truck.h">
+      <Filter>Source Files\Object\Enemy\Truck</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>Source Files\Object\Enemy\Boss</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

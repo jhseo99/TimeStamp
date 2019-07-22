@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns:atg="http://atg.xbox.com" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8e114980-c1a3-4ada-ad7c-83caadf5daeb}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{a43c5c25-0e86-4a20-b64a-883785ff74fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{dbd1ac65-54df-428a-b4d1-19458101df33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GaApplication">
+      <UniqueIdentifier>{5f55a47a-1b25-4ac2-b834-744881c778d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object">
+      <UniqueIdentifier>{94781f91-7811-4182-82a5-498a43d9a93f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ObjectManager">
+      <UniqueIdentifier>{34ba3d58-98df-43b0-8fa2-22a77fe7ed72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SceneManager">
+      <UniqueIdentifier>{223e66f4-ec60-4d91-940a-af94b3ee7312}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\BackGround">
+      <UniqueIdentifier>{e88a3823-e22b-47ab-ba8d-804fffae3f92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Player">
+      <UniqueIdentifier>{cdbd4464-32f4-4dc0-b149-691571fe65e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Bullet">
+      <UniqueIdentifier>{78288500-2d94-4c5f-85fb-73719cc8d2c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GaTimer">
+      <UniqueIdentifier>{302a2ac3-0767-4398-9476-ca81add46898}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Bullet\AimBullet">
+      <UniqueIdentifier>{9bae6b7f-f2c0-4fc2-9b39-d4b4272f6049}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Effect">
+      <UniqueIdentifier>{d5d619a6-5103-4427-ade6-709f5379a6a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Stone">
+      <UniqueIdentifier>{883f1994-207a-4f84-8c0a-966f8c1813af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Enemy">
+      <UniqueIdentifier>{f9dcf21f-c67a-47cf-81f8-66d895c874be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Enemy\Matt">
+      <UniqueIdentifier>{ada1986f-5b68-41eb-87fb-7ad33ede18cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Enemy\James">
+      <UniqueIdentifier>{3e3f4fa7-aa64-4c9f-a984-9b282d99267f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Obstacle">
+      <UniqueIdentifier>{409d8df2-f302-47ec-8ec8-0105667a752a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Enemy\Boss">
+      <UniqueIdentifier>{589ee30c-f915-41e2-be9c-d730415c1d52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Enemy\Boss\Boris">
+      <UniqueIdentifier>{1c207b58-34ff-4b20-9ffd-ad7b45791850}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Bullet\DirectBullet">
+      <UniqueIdentifier>{74cee4fe-03d0-40fb-8e76-a2d881e82f6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Enemy\Boss\Cedric">
+      <UniqueIdentifier>{e5e92378-4124-43ce-9235-cacf4e603c3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Item">
+      <UniqueIdentifier>{986268fc-3d0e-4085-b261-5d19addf8090}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Item\HpUp">
+      <UniqueIdentifier>{61e0b6db-0c17-446f-a8df-091ccae1f5ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Item\Missile">
+      <UniqueIdentifier>{7159cdec-0cb8-4c1f-a197-38fa53e44f55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Item\MissileThree">
+      <UniqueIdentifier>{c2833001-62d2-45da-9b9b-e4bceddfbaae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Item\AimMissile">
+      <UniqueIdentifier>{45b2f188-633c-4af9-bef6-bbe77531dc05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Item\Bomb">
+      <UniqueIdentifier>{8f0c634b-e462-4f49-96df-a2df3bce405e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Item\GunUp">
+      <UniqueIdentifier>{f05eeff8-67f5-4386-8303-abe4289e4d3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Item\SpeedUp">
+      <UniqueIdentifier>{d2616092-ec7a-4ed7-be50-1ee10f671c60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\AddOnPlayer">
+      <UniqueIdentifier>{22e35fdd-ccfa-446d-806d-f50f8ded72b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Item\AddOnPlus">
+      <UniqueIdentifier>{8c5e64a6-dcf7-4c63-aa74-c1d5d7ba6856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Enemy\John">
+      <UniqueIdentifier>{4a2d98a7-8fed-41bc-83df-d4ca886a27bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Enemy\Chris">
+      <UniqueIdentifier>{133bead6-be87-4895-842e-754d7e0bfbfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Enemy\Boss\Richard">
+      <UniqueIdentifier>{492c4a39-2b5b-4c1e-8740-5ab154962c24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object\Enemy\Boss\Herrald">
+      <UniqueIdentifier>{3a3cad5e-37e5-4c2a-ac89-a8624e099a69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SceneManager\Stage">
+      <UniqueIdentifier>{ea72810e-d6a8-4c24-9ec5-3814f24865a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SceneManager\Ending">
+      <UniqueIdentifier>{ad63fa60-79bd-4bcf-8d5d-9b880d833592}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SceneManager\Intro">
+      <UniqueIdentifier>{67a1a146-3375-4433-ac1a-8f545bd545c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SceneManager\Menu">
+      <UniqueIdentifier>{19b14a43-615a-41c5-8c53-268a201d7c78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SoundManager">
+      <UniqueIdentifier>{2cc1c649-6252-428f-ba11-dfe61f75675c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DXUT\Optional\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <ClInclude Include="DXUT\Core\DXUT.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTenum.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Core\DXUT.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTenum.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClInclude Include="DXUT\Optional\DXUTcamera.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTgui.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTres.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTsettingsdlg.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmesh.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Optional\DXUTcamera.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTgui.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTres.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTsettingsdlg.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmesh.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test4.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="GaApplication.cpp">
+      <Filter>Source\GaApplication</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Source\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>Source\ObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Source\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>Source\SceneManager\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGround.cpp">
+      <Filter>Source\Object\BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source\Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source\Object\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="GaTimer.cpp">
+      <Filter>Source\GaTimer</Filter>
+    </ClCompile>
+    <ClCompile Include="AimBullet.cpp">
+      <Filter>Source\Object\Bullet\AimBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>Source\Object\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Stone.cpp">
+      <Filter>Source\Object\Stone</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source\Object\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Matt.cpp">
+      <Filter>Source\Object\Enemy\Matt</Filter>
+    </ClCompile>
+    <ClCompile Include="James.cpp">
+      <Filter>Source\Object\Enemy\James</Filter>
+    </ClCompile>
+    <ClCompile Include="Obstacle.cpp">
+      <Filter>Source\Object\Obstacle</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>Source\Object\Enemy\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="Boris.cpp">
+      <Filter>Source\Object\Enemy\Boss\Boris</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectBullet.cpp">
+      <Filter>Source\Object\Bullet\DirectBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Cedric.cpp">
+      <Filter>Source\Object\Enemy\Boss\Cedric</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source\Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="HpUp.cpp">
+      <Filter>Source\Object\Item\HpUp</Filter>
+    </ClCompile>
+    <ClCompile Include="Missile.cpp">
+      <Filter>Source\Object\Item\Missile</Filter>
+    </ClCompile>
+    <ClCompile Include="MissileThree.cpp">
+      <Filter>Source\Object\Item\MissileThree</Filter>
+    </ClCompile>
+    <ClCompile Include="AimMissile.cpp">
+      <Filter>Source\Object\Item\AimMissile</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb.cpp">
+      <Filter>Source\Object\Item\Bomb</Filter>
+    </ClCompile>
+    <ClCompile Include="GunUp.cpp">
+      <Filter>Source\Object\Item\GunUp</Filter>
+    </ClCompile>
+    <ClCompile Include="SpeedUp.cpp">
+      <Filter>Source\Object\Item\SpeedUp</Filter>
+    </ClCompile>
+    <ClCompile Include="AddOnPlayer.cpp">
+      <Filter>Source\Object\AddOnPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="AddOnPlus.cpp">
+      <Filter>Source\Object\Item\AddOnPlus</Filter>
+    </ClCompile>
+    <ClCompile Include="John.cpp">
+      <Filter>Source\Object\Enemy\John</Filter>
+    </ClCompile>
+    <ClCompile Include="Chris.cpp">
+      <Filter>Source\Object\Enemy\Chris</Filter>
+    </ClCompile>
+    <ClCompile Include="Richard.cpp">
+      <Filter>Source\Object\Enemy\Boss\Richard</Filter>
+    </ClCompile>
+    <ClCompile Include="Herrald.cpp">
+      <Filter>Source\Object\Enemy\Boss\Herrald</Filter>
+    </ClCompile>
+    <ClCompile Include="Ending.cpp">
+      <Filter>Source\SceneManager\Ending</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro.cpp">
+      <Filter>Source\SceneManager\Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source\SceneManager\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>Source\SoundManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT\Optional\SDKsound.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT\Optional\SDKwavefile.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CLInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </CLInclude>
+    <ResourceCompile Include="test4.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+    <ClInclude Include="GaApplication.h">
+      <Filter>Source\GaApplication</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Source\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="GaBase.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>Source\ObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Source\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>Source\SceneManager\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="BackGround.h">
+      <Filter>Source\Object\BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Source\Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Source\Object\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="GaTimer.h">
+      <Filter>Source\GaTimer</Filter>
+    </ClInclude>
+    <ClInclude Include="AimBullet.h">
+      <Filter>Source\Object\Bullet\AimBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>Source\Object\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Stone.h">
+      <Filter>Source\Object\Stone</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Source\Object\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Matt.h">
+      <Filter>Source\Object\Enemy\Matt</Filter>
+    </ClInclude>
+    <ClInclude Include="James.h">
+      <Filter>Source\Object\Enemy\James</Filter>
+    </ClInclude>
+    <ClInclude Include="Obstacle.h">
+      <Filter>Source\Object\Obstacle</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>Source\Object\Enemy\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="Boris.h">
+      <Filter>Source\Object\Enemy\Boss\Boris</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectBullet.h">
+      <Filter>Source\Object\Bullet\DirectBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Cedric.h">
+      <Filter>Source\Object\Enemy\Boss\Cedric</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Source\Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="HpUp.h">
+      <Filter>Source\Object\Item\HpUp</Filter>
+    </ClInclude>
+    <ClInclude Include="Missile.h">
+      <Filter>Source\Object\Item\Missile</Filter>
+    </ClInclude>
+    <ClInclude Include="MissileThree.h">
+      <Filter>Source\Object\Item\MissileThree</Filter>
+    </ClInclude>
+    <ClInclude Include="AimMissile.h">
+      <Filter>Source\Object\Item\AimMissile</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomb.h">
+      <Filter>Source\Object\Item\Bomb</Filter>
+    </ClInclude>
+    <ClInclude Include="GunUp.h">
+      <Filter>Source\Object\Item\GunUp</Filter>
+    </ClInclude>
+    <ClInclude Include="SpeedUp.h">
+      <Filter>Source\Object\Item\SpeedUp</Filter>
+    </ClInclude>
+    <ClInclude Include="AddOnPlayer.h">
+      <Filter>Source\Object\AddOnPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="AddOnPlus.h">
+      <Filter>Source\Object\Item\AddOnPlus</Filter>
+    </ClInclude>
+    <ClInclude Include="John.h">
+      <Filter>Source\Object\Enemy\John</Filter>
+    </ClInclude>
+    <ClInclude Include="Chris.h">
+      <Filter>Source\Object\Enemy\Chris</Filter>
+    </ClInclude>
+    <ClInclude Include="Richard.h">
+      <Filter>Source\Object\Enemy\Boss\Richard</Filter>
+    </ClInclude>
+    <ClInclude Include="Herrald.h">
+      <Filter>Source\Object\Enemy\Boss\Herrald</Filter>
+    </ClInclude>
+    <ClInclude Include="Ending.h">
+      <Filter>Source\SceneManager\Ending</Filter>
+    </ClInclude>
+    <ClInclude Include="Intro.h">
+      <Filter>Source\SceneManager\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Source\SceneManager\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>Source\SoundManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT\Optional\SDKsound.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT\Optional\SDKwavefile.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
