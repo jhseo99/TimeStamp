@@ -1,0 +1,37 @@
+﻿Build started 2017-08-23 오전 5:05:35.
+     1>Project "C:\Users\wlsgu\Desktop\Source\DX\Leaning_in_the_wind\Leaning_in_the_wind\Leaning_in_the_wind_2010.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wlsgu\Desktop\Source\DX\Leaning_in_the_wind\Leaning_in_the_wind\Debug\Leaning_in_the_wind.exe" /INCREMENTAL /NOLOGO d3dx10d.lib d3dx9d.lib dxerr.lib dxguid.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"C:\Users\wlsgu\Desktop\Source\DX\Leaning_in_the_wind\Leaning_in_the_wind\Debug\Leaning_in_the_wind.pdb" /SUBSYSTEM:WINDOWS /LARGEADDRESSAWARE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\wlsgu\Desktop\Source\DX\Leaning_in_the_wind\Leaning_in_the_wind\Debug\Leaning_in_the_wind.lib" /MACHINE:X86 /SAFESEH  Debug\Leaning_in_the_wind.res
+         Debug\Beach.obj
+         Debug\Camera.obj
+         Debug\CollisionObject.obj
+         Debug\CountDown.obj
+         Debug\Ending.obj
+         Debug\Fire.obj
+         Debug\GaTimer.obj
+         Debug\Horse.obj
+         Debug\HorseAI.obj
+         Debug\Intro.obj
+         Debug\Item.obj
+         Debug\Menu.obj
+         Debug\Track.obj
+         Debug\PlayerHorse.obj
+         Debug\RenderObject.obj
+         Debug\SceneManager.obj
+         Debug\Stage.obj
+         Debug\DXUT.obj
+         Debug\DXUTenum.obj
+         Debug\DXUTmisc.obj
+         Debug\DXUTcamera.obj
+         Debug\DXUTgui.obj
+         Debug\DXUTres.obj
+         Debug\DXUTsettingsdlg.obj
+         Debug\SDKmesh.obj
+         Debug\SDKmisc.obj
+         Debug\Leaning_in_the_wind.obj
+         Leaning_in_the_wind_2010.vcxproj -> C:\Users\wlsgu\Desktop\Source\DX\Leaning_in_the_wind\Leaning_in_the_wind\Debug\Leaning_in_the_wind.exe
+     1>Done Building Project "C:\Users\wlsgu\Desktop\Source\DX\Leaning_in_the_wind\Leaning_in_the_wind\Leaning_in_the_wind_2010.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.29

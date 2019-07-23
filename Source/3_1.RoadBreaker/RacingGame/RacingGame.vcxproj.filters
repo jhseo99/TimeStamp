@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\GaApp">
+      <UniqueIdentifier>{1d2cae7e-9605-41f6-80bd-f0a3aee4c889}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GaTimer">
+      <UniqueIdentifier>{37cc3ed3-8c93-4fa5-9553-40fd785800ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object">
+      <UniqueIdentifier>{6a4d0ff2-1640-4dcc-b780-31a3484be4ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ObjectManager">
+      <UniqueIdentifier>{49a163d0-fdd8-4d4c-a569-1922288967be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object\GameObject">
+      <UniqueIdentifier>{affdbcbb-8b28-4642-b25a-790e292c3336}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LandRover">
+      <UniqueIdentifier>{46c1b52a-8e78-4aa0-9241-33ac2dc20940}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Enemy">
+      <UniqueIdentifier>{2f4a7766-21f2-4388-87e3-caa7fbe0110a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Car">
+      <UniqueIdentifier>{f3635dbb-415d-4237-92c4-49066a8cf980}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GaApp.cpp">
+      <Filter>Source Files\GaApp</Filter>
+    </ClCompile>
+    <ClCompile Include="GaTimer.cpp">
+      <Filter>Source Files\GaTimer</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Source Files\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>Source Files\ObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files\Object\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="LandRover.cpp">
+      <Filter>Source Files\LandRover</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Car.cpp">
+      <Filter>Source Files\Car</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GaApp.h">
+      <Filter>Source Files\GaApp</Filter>
+    </ClInclude>
+    <ClInclude Include="GaTimer.h">
+      <Filter>Source Files\GaTimer</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Source Files\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>Source Files\ObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Source Files\Object\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="LandRover.h">
+      <Filter>Source Files\LandRover</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Source Files\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Car.h">
+      <Filter>Source Files\Car</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

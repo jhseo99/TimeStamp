@@ -1,0 +1,54 @@
+﻿빌드 시작: 2017-08-30 오후 8:10:54
+     1>2 노드의 "D:\Programming\Hamel\HamelSurvival_2010.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IDXUT\Core /IDXUT\Optional /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D D3DXFX_LARGEADDRESS_HANDLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Yu"DXUT.h" /Fp"Debug\HamelSurvival.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt  AStar.cpp HamelSurvival.cpp MoveObject.cpp Player.cpp RenderObject.cpp SceneManager.cpp Stage.cpp Tile.cpp TileMap.cpp
+         AStar.cpp
+     1>d:\programming\hamel\astar.cpp(48): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>d:\programming\hamel\astar.cpp(72): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>d:\programming\hamel\astar.cpp(81): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>d:\programming\hamel\astar.cpp(114): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>d:\programming\hamel\astar.cpp(147): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>d:\programming\hamel\astar.cpp(156): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>d:\programming\hamel\astar.cpp(176): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>d:\programming\hamel\astar.cpp(189): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>d:\programming\hamel\astar.cpp(216): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>d:\programming\hamel\astar.cpp(229): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+         HamelSurvival.cpp
+         MoveObject.cpp
+         Player.cpp
+         RenderObject.cpp
+         SceneManager.cpp
+         Stage.cpp
+     1>d:\programming\hamel\stage.cpp(109): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>d:\programming\hamel\stage.cpp(150): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+         Tile.cpp
+         TileMap.cpp
+     1>d:\programming\hamel\tilemap.cpp(45): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         코드를 생성하고 있습니다...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programming\Hamel\Debug\HamelSurvival.exe" /INCREMENTAL /NOLOGO d3dx10d.lib d3dx9d.lib dxerr.lib dxguid.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Programming\Hamel\Debug\HamelSurvival.pdb" /SUBSYSTEM:WINDOWS /LARGEADDRESSAWARE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Programming\Hamel\Debug\HamelSurvival.lib" /MACHINE:X86 /SAFESEH  Debug\HamelSurvival.res
+         Debug\AStar.obj
+         Debug\Mouse.obj
+         Debug\MoveObject.obj
+         Debug\Player.obj
+         Debug\RenderObject.obj
+         Debug\SceneManager.obj
+         Debug\Stage.obj
+         Debug\Tile.obj
+         Debug\TileMap.obj
+         Debug\DXUT.obj
+         Debug\DXUTenum.obj
+         Debug\DXUTmisc.obj
+         Debug\DXUTcamera.obj
+         Debug\DXUTgui.obj
+         Debug\DXUTres.obj
+         Debug\DXUTsettingsdlg.obj
+         Debug\SDKmesh.obj
+         Debug\SDKmisc.obj
+         Debug\HamelSurvival.obj
+         HamelSurvival_2010.vcxproj -> D:\Programming\Hamel\Debug\HamelSurvival.exe
+     1>"D:\Programming\Hamel\HamelSurvival_2010.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.01

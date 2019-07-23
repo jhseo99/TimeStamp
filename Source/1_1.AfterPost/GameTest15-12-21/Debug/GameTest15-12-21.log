@@ -1,0 +1,99 @@
+﻿  GameTest.cpp
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(216): warning C4459: 'g_wc' 선언은 전역 선언을 숨깁니다.
+  c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(15): note: 'g_wc' 선언을 참조하십시오.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1106): warning C4459: 'check' 선언은 전역 선언을 숨깁니다.
+  c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(76): note: 'check' 선언을 참조하십시오.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1140): warning C4459: 'check' 선언은 전역 선언을 숨깁니다.
+  c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(76): note: 'check' 선언을 참조하십시오.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1167): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1195): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1374): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1374): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1375): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1375): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1380): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1380): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1385): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1385): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1386): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1386): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1391): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1391): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1394): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1394): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1398): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1398): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1417): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1417): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1418): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1418): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1423): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1423): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1424): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1424): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1425): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1425): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1430): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1430): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1434): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1434): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1442): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1442): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1446): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1446): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1455): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1455): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1459): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1459): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1466): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1466): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1470): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1470): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1488): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1488): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1492): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1492): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1499): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1499): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1503): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1503): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1516): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1516): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1520): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1520): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1527): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1527): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1531): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1531): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1542): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1542): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1546): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1546): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1560): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1560): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1567): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1567): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1588): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1588): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1592): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1592): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1596): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1596): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1610): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1610): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1628): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1628): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1632): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1632): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1636): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1636): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1649): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1649): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1653): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1653): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1670): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1670): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1675): warning C4305: '인수': '__int64'에서 'D3DCOLOR'(으)로 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1675): warning C4309: '인수': 상수 값이 잘립니다.
+c:\users\samsung\desktop\포트폴리오\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest15-12-21\gametest.cpp(1759): warning C4100: 'hInst': 참조되지 않은 정식 매개 변수입니다.
+  GameTest15-12-21.vcxproj -> C:\Users\samsung\Desktop\포트폴리오\GameTest15-12-21\GameTest15-12-21\GameTest15-12-21\Debug\GameTest15-12-21.exe

@@ -1,0 +1,107 @@
+﻿Build started 2017-04-07 오후 1:41:46.
+     1>Project "C:\Users\Jinhyuck\Desktop\test4\test4\test4\test4\test4\test4\test4_2010.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IDXUT\Core /IDXUT\Optional /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D D3DXFX_LARGEADDRESS_HANDLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Yu"DXUT.h" /Fp"Debug\test4.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt  "..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT\Optional\SDKsound.cpp" "..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT\Optional\SDKwavefile.cpp" AddOnPlayer.cpp AddOnPlus.cpp AimBullet.cpp AimMissile.cpp BackGround.cpp Bomb.cpp Boris.cpp Boss.cpp Bullet.cpp Cedric.cpp Chris.cpp DirectBullet.cpp DXUT\Core\DXUTenum.cpp DXUT\Core\DXUTmisc.cpp DXUT\Optional\DXUTcamera.cpp DXUT\Optional\DXUTgui.cpp DXUT\Optional\DXUTres.cpp DXUT\Optional\DXUTsettingsdlg.cpp DXUT\Optional\SDKmesh.cpp DXUT\Optional\SDKmisc.cpp Effect.cpp Enemy.cpp GaApplication.cpp GaTimer.cpp GunUp.cpp Herrald.cpp HpUp.cpp Intro.cpp Item.cpp James.cpp John.cpp Matt.cpp Menu.cpp Missile.cpp MissileThree.cpp Object.cpp ObjectManager.cpp Obstacle.cpp Player.cpp Richard.cpp SceneManager.cpp SoundManager.cpp SpeedUp.cpp Stage.cpp Stone.cpp test4.cpp
+         SDKsound.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT\Optional\SDKsound.cpp': No such file or directory
+         SDKwavefile.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT\Optional\SDKwavefile.cpp': No such file or directory
+         AddOnPlayer.cpp
+         AddOnPlus.cpp
+         AimBullet.cpp
+         AimMissile.cpp
+         BackGround.cpp
+         Bomb.cpp
+         Boris.cpp
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\boris.cpp(148): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\boris.cpp(149): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Boss.cpp
+         Bullet.cpp
+         Cedric.cpp
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\cedric.cpp(185): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\cedric.cpp(186): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Chris.cpp
+         DirectBullet.cpp
+         DXUTenum.cpp
+         DXUTmisc.cpp
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\dxut\core\dxutmisc.cpp(1263): warning C4996: 'GetVersionExA': was declared deprecated
+                 c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(433) : see declaration of 'GetVersionExA'
+         DXUTcamera.cpp
+         DXUTgui.cpp
+         DXUTres.cpp
+         DXUTsettingsdlg.cpp
+         Generating Code...
+         Compiling...
+         SDKmesh.cpp
+         SDKmisc.cpp
+         Effect.cpp
+         Enemy.cpp
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\enemy.cpp(17): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+         GaApplication.cpp
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\matt.h(7): warning C4005: 'ANI_MOVE' : macro redefinition
+                 c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\player.h(11) : see previous definition of 'ANI_MOVE'
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\james.h(9): warning C4005: 'ANI_MOVE' : macro redefinition
+                 c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\matt.h(7) : see previous definition of 'ANI_MOVE'
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\john.h(9): warning C4005: 'ANI_MOVE' : macro redefinition
+                 c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\james.h(9) : see previous definition of 'ANI_MOVE'
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\chris.h(9): warning C4005: 'ANI_MOVE' : macro redefinition
+                 c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\john.h(9) : see previous definition of 'ANI_MOVE'
+         GaTimer.cpp
+         GunUp.cpp
+         Herrald.cpp
+         HpUp.cpp
+         Intro.cpp
+         Item.cpp
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\item.cpp(23): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+         James.cpp
+         John.cpp
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\john.h(9): warning C4005: 'ANI_MOVE' : macro redefinition
+                 c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\player.h(11) : see previous definition of 'ANI_MOVE'
+         Matt.cpp
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\matt.h(7): warning C4005: 'ANI_MOVE' : macro redefinition
+                 c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\player.h(11) : see previous definition of 'ANI_MOVE'
+         Menu.cpp
+         Missile.cpp
+         MissileThree.cpp
+         Object.cpp
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\object.cpp(43): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\object.cpp(45): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+         ObjectManager.cpp
+         Obstacle.cpp
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\obstacle.cpp(30): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+         Generating Code...
+         Compiling...
+         Player.cpp
+         Richard.cpp
+         SceneManager.cpp
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\matt.h(7): warning C4005: 'ANI_MOVE' : macro redefinition
+                 c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\player.h(11) : see previous definition of 'ANI_MOVE'
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\james.h(9): warning C4005: 'ANI_MOVE' : macro redefinition
+                 c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\matt.h(7) : see previous definition of 'ANI_MOVE'
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\john.h(9): warning C4005: 'ANI_MOVE' : macro redefinition
+                 c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\james.h(9) : see previous definition of 'ANI_MOVE'
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\chris.h(9): warning C4005: 'ANI_MOVE' : macro redefinition
+                 c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\john.h(9) : see previous definition of 'ANI_MOVE'
+         SoundManager.cpp
+         SpeedUp.cpp
+         Stage.cpp
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\matt.h(7): warning C4005: 'ANI_MOVE' : macro redefinition
+                 c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\player.h(11) : see previous definition of 'ANI_MOVE'
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\james.h(9): warning C4005: 'ANI_MOVE' : macro redefinition
+                 c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\matt.h(7) : see previous definition of 'ANI_MOVE'
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\john.h(9): warning C4005: 'ANI_MOVE' : macro redefinition
+                 c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\james.h(9) : see previous definition of 'ANI_MOVE'
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\chris.h(9): warning C4005: 'ANI_MOVE' : macro redefinition
+                 c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\john.h(9) : see previous definition of 'ANI_MOVE'
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\stage.cpp(35): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Stone.cpp
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\stone.cpp(36): warning C4244: '=' : conversion from 'LONG' to 'float', possible loss of data
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\stone.cpp(79): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>c:\users\jinhyuck\desktop\test4\test4\test4\test4\test4\test4\stone.cpp(81): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+         test4.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\Jinhyuck\Desktop\test4\test4\test4\test4\test4\test4\test4_2010.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:13.77
